@@ -1,2 +1,5 @@
-# Hi-Weath3r-64
-A clingy way to use weather on iOS 6.This has been achived by editing a system file.Supported versions:4,6 NOTE:THIS IS NOT A SERVER.Project updated weekly.
+Tutorial
+Go to /var/mobile/library/preferences
+Download com.apple.weather.com for your iOS versions
+Delete the old com.apple.weather.com
+Does not work for iOS 3 below
